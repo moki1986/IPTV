@@ -23,7 +23,7 @@ https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-privéhd
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1,Animal Planet HD
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+http://103.157.210.165:8000/play/a01c/index.m3u8
 
 #EXTINF:-1,ATN Music
 http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
@@ -38,13 +38,16 @@ http://14.199.164.20:4001/play/a0wj/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
 #EXTINF:-1,BBC Earth
-https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151604
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1,BBC Lifestyle
 https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151606
 
 #EXTINF:-1,BBC World
 https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151629
+
+#EXTINF:-1,Bein Sports 2
+http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
@@ -56,10 +59,7 @@ http://103.106.2.149:13456/btv.m3u8
 https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151593
 
 #EXTINF:-1,Cartoon Network
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
-
-#EXTINF:-1,Cartoon Network HD+
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_English&q=1200&e=junk.m3u8
+http://188.40.68.167/russia/cartoon/playlist.m3u8
 
 #EXTINF:-1,Cbeebies
 https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151607
@@ -94,8 +94,8 @@ http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
 #EXTINF:-1,Discovery EN
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
 
-#EXTINF:-1,Discovery Asia
-https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151603
+#EXTINF:-1,Discovery Science
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1299
 
 #EXTINF:-1,Duronto TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
@@ -123,6 +123,9 @@ https://rhridoy136.shortcm.li/jamunatv.m3u8
 
 #EXTINF:-1,MTV Beats HD
 http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&=600&e=.m3u8
+
+#EXTINF:-1,Natgeo Wild
+http://103.157.210.165:8000/play/a00d/index.m3u8
 
 #EXTINF:-1,News 24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
