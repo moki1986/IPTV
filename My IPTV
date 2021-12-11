@@ -58,10 +58,10 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1,Color Cineplex
 http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex&q=800&e=junk
 
-#EXTINF:-1,Deepto TV HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/191
+#EXTINF:-1,DBC News
+http://103.159.4.38:5868/BD-BANGLA-13/index.m3u8
 
-#EXTINF:-1,Deepto TV 2
+#EXTINF:-1,Deepto TV HD
 http://str24.l9574.com/609.stream/index.m3u8
 
 #EXTINF:-1,Discovery
