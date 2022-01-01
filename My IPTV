@@ -11,14 +11,14 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1,&flix HD
-http://t24.viptvpro.com:25443/V2ICP9M9INc/1NTBuNsGJl/93364
+https://z5ak-live.zee5.com/andflixhd/index.m3u8?hdnts=st=1641016754~exp=1641019754~acl=/andflixhd/index.m3u8*~hmac=bcf0ef17da9f0121fc2e7d4d6399baff5ae761c4e8829e8071a9403ee0426473
 
 #EXTINF:-1,&pictures
 http://208.86.19.21/705.stream/index.m3u8
 #http://str24.l9574.com/705.stream/index.m3u8
 
 #EXTINF:-1,&prive HD
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-privéhd
+https://z5ak-live.zee5.com/andprivehd/index.m3u8?hdnts=st=1641016769~exp=1641019769~acl=/andprivehd/index.m3u8*~hmac=09f1686c1c02ab37797c52d4b06d8c0110e8dc7bdf363bb86a1f90ebe0320d09
 
 #EXTINF:-1,Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
