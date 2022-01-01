@@ -21,19 +21,16 @@ http://208.86.19.21/705.stream/index.m3u8
 https://z5ak-live.zee5.com/andprivehd/index.m3u8?hdnts=st=1641016769~exp=1641019769~acl=/andprivehd/index.m3u8*~hmac=09f1686c1c02ab37797c52d4b06d8c0110e8dc7bdf363bb86a1f90ebe0320d09
 
 #EXTINF:-1,Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
+https://edge4.bioscopelive.com/hls/anonymous/fxKn3WvcgGjCTXE0hWll2w/1641022769/al_jazeera.m3u8
 
 #EXTINF:-1,Animal Planet HD
-http://103.157.210.165:8000/play/a01c/index.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/315
-http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
+http://212.102.60.40:2200/R-EX/ENGLISH_ANIMAL_PLANET_HD-in/index.m3u8?token=RED_vqojroBEF5bGJvXYRDdV3w==,1619774634.1743800549
 
 #EXTINF:-1,ATN Music
 http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
 #EXTINF:-1,ATN News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+https://edge4.bioscopelive.com/hls/anonymous/-DPzMm94oCxFGCbHqETGrg/1641023371/atn_news.m3u8
 
 #EXTINF:-1,B4U Movies
 http://14.199.164.20:4001/play/a0wj/index.m3u8
@@ -42,17 +39,13 @@ http://14.199.164.20:4001/play/a0wj/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
 #EXTINF:-1,BBC Earth
-http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
-#http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1633
-#http://58.65.194.14:1935/live/BBC%20Earth%20HD.stream/playlist.m3u8
-http://103.131.212.138:8000/play/a016
+https://ott.bingebd.com/live/ngrp:nxd_sony_bbc_earth_all/index.m3u8
 
 #EXTINF:-1,BBC Lifestyle
 https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151606
 
 #EXTINF:-1,BBC World
-https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151629
-#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+https://live.bongobd.com/hls/xkvsUzgsB221vInDzG8e3w/1641024092/bbc_world.m3u8
 
 #EXTINF:-1,Bein Sports 2
 http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
@@ -67,9 +60,7 @@ http://103.106.2.149:13456/btv.m3u8
 https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151593
 
 #EXTINF:-1,Cartoon Network
-http://188.40.68.167/russia/cartoon/playlist.m3u8
-#http://rv.flysat.live:80/ams/ams123/83600
-#https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+http://alphabetagama.ddns.net/kids2019/cartoonnetpak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjIgNzowMzo1NyBBTSZoYXNoX3ZhbHVlPWtZQlRKRkR1aGdGKzNrRkRyZW03Smc9PSZ2YWxpZG1pbnV0ZXM9Ng==
 
 #EXTINF:-1,Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
@@ -93,9 +84,7 @@ http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex&q=800&e=junk
 http://103.159.4.38:5868/BD-BANGLA-13/index.m3u8
 
 #EXTINF:-1,Deepto TV HD
-http://str24.l9574.com/609.stream/index.m3u8
-#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+https://ott.bingebd.com/live/ngrp:deepto_tv_all/index.m3u8
 
 #EXTINF:-1,Discovery BN
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
@@ -148,6 +137,9 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
 #http://50.7.61.148:30080/Entry/hbo/index.m3u8
 
+#EXTINF:-1,HBO HD
+http://livezer0.hjkm.info:11991/ceres/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjIgNzowODoyNCBBTSZoYXNoX3ZhbHVlPXNaSWJCM3p6djJ5eU5kU1VCajJPcGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
 #EXTINF:-1,History Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
@@ -174,12 +166,7 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
 #EXTINF:-1,Nick
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Hindi&q=1200&e=junk.m3u8
-#https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
-#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/16
-
-#EXTINF:-1,Nick HD+
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
+http://alphabetagama.ddns.net/kids2019/nickelodeonhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjIgNzoxMzoyMCBBTSZoYXNoX3ZhbHVlPWhyR094Yk0zd2hFOXhJL0V6aTA5QUE9PSZ2YWxpZG1pbnV0ZXM9Ng==
 
 #EXTINF:-1,NTV
 http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
@@ -210,24 +197,10 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sony Max
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/316
-#http://nicefly.xyz:80/h21041003/651032140/246204
-#http://208.86.19.21:80/706.stream/index.m3u8
-#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/40
-
-#EXTINF:-1,Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Sony Max 2
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_MAX2&q=800&e=junk.m3u8
+https://ott.bingebd.com/live/ngrp:nxd_sony_max_sd_all/index.m3u8
 
 #EXTINF:-1,Sony Pix
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_Pix_SD&q=800&e=junk.m3u8
-
-#EXTINF:-1,Sony Pix HD
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_Pix_HD&q=800&e=junk.m3u8
-#http://103.131.212.138:8000/play/a017/index.m3u8
-#http://103.157.210.165:8000/play/a01h/index.m3u8
+https://ott.bingebd.com/live/ngrp:nxd_sony_pix_all/index.m3u8
 
 #EXTINF:-1,Sony Six HD
 https://lm.facebook.com/l.php?u=http%3A%2F%2F208.86.19.21%3A80%2F740.stream%2Findex.m3u8%3Ffbclid%3DIwAR2-cdG9wR71AyeC8tOUbOuRJPK4YKTrtf_7DjujvIT2Fhe8jVY4V5QLnQM&h=AT2tWteFiKjADC9k284DmyWvqCwmV-9D-8fW4Ie055UlSOSjuUAhzEdsklE-tZCwjuOmhlN6vk-51NnJGAZwz7eYMtZTP6MlUJUHILDJvWbrBEdCBD-K-feUjRttzqcM9di9Wq_ZekrqkxXfI4Z7ZQ
