@@ -18,7 +18,7 @@ http://208.86.19.21/705.stream/index.m3u8
 #http://str24.l9574.com/705.stream/index.m3u8
 
 #EXTINF:-1,&prive HD
-https://z5ak-live.zee5.com/andprivehd/index.m3u8?hdnts=st=1641016769~exp=1641019769~acl=/andprivehd/index.m3u8*~hmac=09f1686c1c02ab37797c52d4b06d8c0110e8dc7bdf363bb86a1f90ebe0320d09
+https://z5ak-live.zee5.com/andprivehd/index.m3u8?hdnts=st=1641219234~exp=1641222234~acl=/andprivehd/index.m3u8*~hmac=59e4d02d35f247a60d3e7a552b2696fb3ffac003b98994467704ea7323fe3025
 
 #EXTINF:-1,Al Jazeera English
 https://edge4.bioscopelive.com/hls/anonymous/fxKn3WvcgGjCTXE0hWll2w/1641022769/al_jazeera.m3u8
