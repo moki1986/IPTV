@@ -65,6 +65,8 @@ https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151593
 
 #EXTINF:-1,Cartoon Network
 http://alphabetagama.ddns.net/kids2019/cartoonnetpak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjIgNzowMzo1NyBBTSZoYXNoX3ZhbHVlPWtZQlRKRkR1aGdGKzNrRkRyZW03Smc9PSZ2YWxpZG1pbnV0ZXM9Ng==
+#https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_English&q=1200&e=junk.m3u8
+#https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
 
 #EXTINF:-1,Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
@@ -131,6 +133,7 @@ http://30.30.30.30/live/skyfeed1005/index.m3u8
 #http://103.109.56.116/live/skyfeed1001/index.m3u8
 #http://103.78.255.178:8080/gtv/index.m3u8
 #http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
+#http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
 
 #EXTINF:-1,Gazi TV HD
 https://rebrand.ly/JB/GaziTvHD
@@ -176,9 +179,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1,Nick
 http://alphabetagama.ddns.net/kids2019/nickelodeonhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjIgNzoxMzoyMCBBTSZoYXNoX3ZhbHVlPWhyR094Yk0zd2hFOXhJL0V6aTA5QUE9PSZ2YWxpZG1pbnV0ZXM9Ng==
+#https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Hindi&q=1200&e=junk.m3u8
 
 #EXTINF:-1,Nick BN
 http://103.81.104.118/hls/nick.m3u8
+
+#EXTINF:-1,Nick HD+
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
 
 #EXTINF:-1,NTV
 http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
