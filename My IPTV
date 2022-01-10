@@ -298,6 +298,9 @@ http://103.81.104.118/hls/sonymax.m3u8
 #EXTINF:-1,Sony Max 3rd
 https://ott.bingebd.com/live/ngrp:nxd_sony_max_sd_all/index.m3u8
 
+#EXTINF:-1,Sony Max HD
+https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
+
 #EXTINF:-1,Sony Pix
 https://ott.bingebd.com/live/ngrp:nxd_sony_pix_all/index.m3u8
 
