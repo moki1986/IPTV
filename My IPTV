@@ -290,10 +290,13 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.81.104.118/hls/sonyen.m3u8
 
 #EXTINF:-1,Sony Max
-https://ott.bingebd.com/live/ngrp:nxd_sony_max_sd_all/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_max_576/index.m3u8
 
 #EXTINF:-1,Sony Max 2nd
 http://103.81.104.118/hls/sonymax.m3u8
+
+#EXTINF:-1,Sony Max 3rd
+https://ott.bingebd.com/live/ngrp:nxd_sony_max_sd_all/index.m3u8
 
 #EXTINF:-1,Sony Pix
 https://ott.bingebd.com/live/ngrp:nxd_sony_pix_all/index.m3u8
