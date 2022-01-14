@@ -13,6 +13,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-1,&flix HD
 https://z5ak-live.zee5.com/andflixhd/index.m3u8?hdnts=st=1641016754~exp=1641019754~acl=/andflixhd/index.m3u8*~hmac=bcf0ef17da9f0121fc2e7d4d6399baff5ae761c4e8829e8071a9403ee0426473
 
+#EXTINF:-1,&flix HD 2
+http://103.153.39.36:8000/play/a00p
+
 #EXTINF:-1,&pictures
 http://208.86.19.21/705.stream/index.m3u8
 
@@ -24,6 +27,9 @@ http://103.81.104.118/hls/andpictures.m3u8
 
 #EXTINF:-1,&prive HD
 https://z5ak-live.zee5.com/andprivehd/index.m3u8?hdnts=st=1641219234~exp=1641222234~acl=/andprivehd/index.m3u8*~hmac=59e4d02d35f247a60d3e7a552b2696fb3ffac003b98994467704ea7323fe3025
+
+#EXTINF:-1,&prive HD 2
+http://103.153.39.36:8000/play/a01d
 
 #EXTINF:-1,Al Jazeera English
 https://edge4.bioscopelive.com/hls/anonymous/fxKn3WvcgGjCTXE0hWll2w/1641022769/al_jazeera.m3u8
