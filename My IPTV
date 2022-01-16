@@ -38,12 +38,6 @@ http://14.199.164.20:4001/play/a0wj/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
 #EXTINF:-1,BBC Earth
-https://ott.bingebd.com/live/ngrp:nxd_sony_bbc_earth_all/index.m3u8
-
-#EXTINF:-1,BBC Earth 2
-http://103.81.104.118/hls/bbcearth.m3u8
-
-#EXTINF:-1,BBC Earth 3
 https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
 
 #EXTINF:-1,BBC Earth HD
