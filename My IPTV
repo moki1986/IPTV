@@ -17,22 +17,13 @@ http://103.153.39.36:8000/play/a00p
 http://str24.l9574.com/705.stream/index.m3u8
 
 #EXTINF:-1,&prive HD
-https://z5ak-live.zee5.com/andprivehd/index.m3u8?hdnts=st=1641219234~exp=1641222234~acl=/andprivehd/index.m3u8*~hmac=59e4d02d35f247a60d3e7a552b2696fb3ffac003b98994467704ea7323fe3025
-
-#EXTINF:-1,&prive HD 2
 http://103.153.39.36:8000/play/a01d
 
-#EXTINF:-1,Al Jazeera English
-https://edge4.bioscopelive.com/hls/anonymous/fxKn3WvcgGjCTXE0hWll2w/1641022769/al_jazeera.m3u8
-
-#EXTINF:-1,Al Jazeera 2
+#EXTINF:-1,Al Jazeera
 https://streamer-1.toffeelive.com/live/aljazeera_720/index.m3u8
 
 #EXTINF:-1,Animal Planet HD
-http://212.102.60.40:2200/R-EX/ENGLISH_ANIMAL_PLANET_HD-in/index.m3u8?token=RED_vqojroBEF5bGJvXYRDdV3w==,1619774634.1743800549
-
-#EXTINF:-1,Animal Planet
-http://103.81.104.118/hls/animalplanent.m3u8
+https://streamer-1.toffeelive.com/live/animal_planet_hd_720/index.m3u8
 
 #EXTINF:-1,ATN Music
 http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
