@@ -104,7 +104,7 @@ http://103.159.4.38:5868/BD-BANGLA-13/index.m3u8
 https://streamer-1.toffeelive.com/live/dbc_news_720/index.m3u8
 
 #EXTINF:-1,Deepto TV HD
-https://ott.bingebd.com/live/ngrp:deepto_tv_all/index.m3u8
+https://somoy.appv.jagobd.com:444/somoy/deeptotv.stream/playlist.m3u8
 
 #EXTINF:-1,Discovery BN
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
