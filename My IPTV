@@ -23,7 +23,7 @@ http://103.153.39.36:8000/play/a01d
 https://streamer-1.toffeelive.com/live/aljazeera_720/index.m3u8
 
 #EXTINF:-1,Animal Planet HD
-https://streamer-1.toffeelive.com/live/animal_planet_hd_720/index.m3u8
+https://smart-tv.livedoomovie.com:4431/02_AnimalPlanet/chunklist.m3u8
 
 #EXTINF:-1,ATN Music
 http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
