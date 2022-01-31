@@ -194,7 +194,7 @@ http://50.7.61.148:30080/Entry/hbo/index.m3u8
 http://livezer0.hjkm.info:11991/ceres/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjIgNzowODoyNCBBTSZoYXNoX3ZhbHVlPXNaSWJCM3p6djJ5eU5kU1VCajJPcGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1,History Channel
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+https://smart-tv.livedoomovie.com:4431/02_HISTORYHD_720p/chunklist.m3u8
 
 #EXTINF:-1,Independant TV
 http://str24.l9574.com/601.stream/index.m3u8
