@@ -68,13 +68,7 @@ http://103.106.2.149:13456/btv.m3u8
 https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151593
 
 #EXTINF:-1,Cartoon Network
-http://alphabetagama.ddns.net/kids2019/cartoonnetpak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjIgNzowMzo1NyBBTSZoYXNoX3ZhbHVlPWtZQlRKRkR1aGdGKzNrRkRyZW03Smc9PSZ2YWxpZG1pbnV0ZXM9Ng==
-
-#EXTINF:-1,Cartoon Network 2
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_English&q=1200&e=junk.m3u8
-
-#EXTINF:-1,Cartoon Network 3
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
 #EXTINF:-1,Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
