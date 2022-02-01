@@ -229,17 +229,8 @@ https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
 #EXTINF:-1,Sony Max2
 https://streamer-1.toffeelive.com/live/sony_max_2_720/index.m3u8
 
-#EXTINF:-1,Sony Pix
-https://ott.bingebd.com/live/ngrp:nxd_sony_pix_all/index.m3u8
-
-#EXTINF:-1,Sony Pix 2
-https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
-
 #EXTINF:-1,Sony Pix HD
-http://103.81.104.118/hls/sonypixhd.m3u8
-
-#EXTINF:-1,Sony Pix HD 2
-https://streamer-1.toffeelive.com/live/sony_pix_hd_720/index.m3u8
+http://live.flixhub.net/hls/sonypixhd.m3u8
 
 #EXTINF:-1,Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
@@ -371,10 +362,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 http://103.81.104.118/hls/jalshamovies.m3u8
 
 #EXTINF:-1,Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Star Movies HD 2
-http://103.81.104.118/hls/starmovies.m3u8
+http://live.flixhub.net/hls/starmovies.m3u8
 
 #EXTINF:-1,Star Plus
 https://m3u-editor.com/serve/6e0ebdd0-4f7f-11ec-8859-45cc110217ba/436151589
