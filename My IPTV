@@ -163,29 +163,8 @@ http://live.flixhub.net/hls/ngohd.m3u8
 #EXTINF:-1,News 24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
-#EXTINF:-1,News 24 HD 2
-https://streamer-1.toffeelive.com/live/news24hd_720/index.m3u8
-
-#EXTINF:-1,Nick
-http://alphabetagama.ddns.net/kids2019/nickelodeonhindi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjIgNzoxMzoyMCBBTSZoYXNoX3ZhbHVlPWhyR094Yk0zd2hFOXhJL0V6aTA5QUE9PSZ2YWxpZG1pbnV0ZXM9Ng==
-
-#EXTINF:-1,Nick 2
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Hindi&q=1200&e=junk.m3u8
-
-#EXTINF:-1,Nick 3
-https://streamer-1.toffeelive.com/live/nick_720/index.m3u8
-
-#EXTINF:-1,Nick BN
-http://103.81.104.118/hls/nick.m3u8
-
-#EXTINF:-1,Nick HD+
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
-
 #EXTINF:-1,NTV
 http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,NTV 2
-https://streamer-1.toffeelive.com/live/ntv_b_720/index.m3u8
 
 #EXTINF:-1,Peace TV Bangla
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
