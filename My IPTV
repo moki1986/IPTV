@@ -226,8 +226,17 @@ https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Sony_Yay_Hindi&q=800&e=jun
 #EXTINF:-1,Star Jalsha
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 
+#EXTINF:-1,Star Gold HD
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Star_Gold_HD&q=1200&e=junk.m3u8
+
 #EXTINF:-1,Star Movies HD
 http://live.flixhub.net/hls/starmovies.m3u8
+
+#EXTINF:-1,Star Movies HD 2
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+
+#EXTINF:-1,Star Plus HD
+https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Star_Plus_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1,T-Sports
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
