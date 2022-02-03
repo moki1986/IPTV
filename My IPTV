@@ -41,7 +41,7 @@ http://14.199.164.20:4001/play/a0wj/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
 #EXTINF:-1,BBC Earth
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+http://103.166.253.222/hls/bbcearth.m3u8
 
 #EXTINF:-1,BBC World
 https://live.bongobd.com/hls/xkvsUzgsB221vInDzG8e3w/1641024092/bbc_world.m3u8
@@ -188,7 +188,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sony Pix HD
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+http://103.166.253.222/hls/sonypixhd.m3u8
 
 #EXTINF:-1,Sony Six
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
@@ -215,13 +215,10 @@ http://103.166.253.222/hls/jalshamovies.m3u8
 https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Star_Gold_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1,Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.166.253.222/hls/starmovies.m3u8
 
 #EXTINF:-1,Star Movies HD 2
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-
-#EXTINF:-1,Star Movies HD 3
-http://180.178.130.180:8000/play/a04c/index.m3u8
 
 #EXTINF:-1,Star Plus HD
 https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Star_Plus_HD&q=1200&e=junk.m3u8
