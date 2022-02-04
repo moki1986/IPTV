@@ -160,6 +160,9 @@ https://cdn.bioscope.gq/mktv_live/channels/sports/ssp-hindi1.m3u8
 #EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1,T-Sports HD
+http://live.flixhub.net/hls/t-sports.m3u8
+
 #EXTINF:-1,UTV HD
 http://180.178.130.180:8000/play/a04k/index.m3u8
 
