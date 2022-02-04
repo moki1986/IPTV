@@ -13,6 +13,12 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-1,Animal Planet HD
 https://smart-tv.livedoomovie.com:4431/02_AnimalPlanet/chunklist.m3u8
 
+#EXTINF:-1,Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1,Aniplus
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+
 #EXTINF:-1,ATN Music
 http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
@@ -30,6 +36,9 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
 #EXTINF:-1,BBC Earth
 http://103.166.253.222/hls/bbcearth.m3u8
+
+#EXTINF:-1,BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1,Bein Sports 2
 #http://203.159.95.172:8081/live/bein02/chunks.m3u8
@@ -112,6 +121,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1,National Geographic BN HD
 http://live.flixhub.net/hls/ngohd.m3u8
 
+#EXTINF:-1,National Geographic
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
+
 #EXTINF:-1,News 24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
@@ -123,6 +135,9 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:-1,Pogo
 http://thoptv.in1.bitmana.io/jioo.php?c=Pogo_Hindi&q=1200&e=.m3u8
+
+#EXTINF:-1,PTV Sports
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:-1,Somoy TV
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
@@ -157,11 +172,17 @@ http://103.166.253.222/hls/starmovies.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
 https://cdn.bioscope.gq/mktv_live/channels/sports/ssp-hindi1.m3u8
 
+#EXTINF:-1,Star World HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,T-Sports HD
 http://live.flixhub.net/hls/t-sports.m3u8
+
+#EXTINF:-1,T-Sports HD 2
+http://103.102.27.172:6464/Channel-2/index.m3u8
 
 #EXTINF:-1,UTV HD
 http://180.178.130.180:8000/play/a04k/index.m3u8
