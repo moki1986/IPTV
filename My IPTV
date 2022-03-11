@@ -181,14 +181,20 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1,Sony Entertainment
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Sony Max
+http://103.166.253.222/hls/sonymax.m3u8
+
 #EXTINF:-1,Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 
 #EXTINF:-1,Sony Pix HD
 http://103.166.253.222/hls/sonypixhd.m3u8
 
-#EXTINF:-1,Star Jalsha HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
+#EXTINF:-1,Sony Six
+http://103.166.253.222/hls/sonysix.m3u8
+
+#EXTINF:-1,Star Jalsha
+http://103.166.253.222/hls/starjalsha.m3u8
 
 #EXTINF:-1,Star Jalsha Movies HD
 http://103.166.253.222/hls/jalshamovies.m3u8
@@ -228,6 +234,12 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
 #EXTINF:-1,Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Zee Bangla HD
+http://103.166.253.222/hls/zeebanglahd.m3u8
+
+#EXTINF:-1,Zee Bangla Cinema
+http://103.166.253.222/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-1,Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
