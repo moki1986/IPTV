@@ -10,8 +10,12 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1,9x Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1,Animal Planet HD
-https://smart-tv.livedoomovie.com:4431/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1,&flix HD
+https://snehz5.herokuapp.com/?c=channel_2105335046
+
+#EXTINF:-1,&pictures
+https://snehz5.herokuapp.com/?c=pictures
 
 #EXTINF:-1,Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
@@ -27,9 +31,6 @@ http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1,ATN News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-
-#EXTINF:-1,AXN HD
-https://smart-tv.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
 
 #EXTINF:-1,B4U Movies
 http://14.199.164.20:4001/play/a0wj/index.m3u8
@@ -47,7 +48,7 @@ http://103.166.253.222/hls/bbcearth.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1,Bein Sports
-#http://203.159.95.172:8081/live/bein02/chunks.m3u8
+http://203.159.95.172:8081/live/bein02/chunks.m3u8
 
 #EXTINF:-1,Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
