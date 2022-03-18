@@ -259,7 +259,8 @@ http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1,Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Zing
+#EXTINF:-1,Willow Cricket HD
+https://16live00.akamaized.net/WILLOW/index.m3u8
 
 #EXTINF:-1,
 
