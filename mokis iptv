@@ -10,13 +10,6 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1,9x Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
-
-#EXTINF:-1,&flix HD
-https://snehz5.herokuapp.com/?c=channel_2105335046
-
-#EXTINF:-1,&pictures
-https://snehz5.herokuapp.com/?c=pictures
-
 #EXTINF:-1,Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
@@ -31,9 +24,6 @@ http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1,ATN News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-
-#EXTINF:-1,B4U Movies
-http://14.199.164.20:4001/play/a0wj/index.m3u8
 
 #EXTINF:-1,B4U Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
@@ -68,12 +58,6 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1,Cartoon Network Rus
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
-#EXTINF:-1,Cartoon Network HD+
-http://thoptv.in1.bitmana.io/jioo.php?c=CN_HD_English&q=1200&e=.m3u8
-
-#EXTINF:-1,Cartoon Network Hindi
-http://thoptv.in1.bitmana.io/jioo.php?c=Cartoon_Network_Hindi&q=1200&e=.m3u8
-
 #EXTINF:-1,Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
@@ -98,32 +82,17 @@ https://somoy.appv.jagobd.com:444/somoy/deshtv.stream/playlist.m3u8
 #EXTINF:-1,Discovery HD
 http://live.flixhub.net/hls/discovery.m3u8
 
-#EXTINF:-1,Duronto TV
-http://89.187.185.89:3232/ban-duronto/index.m3u8
-
-#EXTINF:-1,Ekattor TV HD
-http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1,Gaan Bangla
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
-#EXTINF:-1,Gaan Bangla 3
+#EXTINF:-1,Gaan Bangla 2
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
-#EXTINF:-1,Gaan Bangla 4
+#EXTINF:-1,Gaan Bangla 3
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-
-#EXTINF:-1,Gazi TV HD
-http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,HBO
-http://50.7.61.148:30080/Entry/hbo/index.m3u8
-
-#EXTINF:-1,History Channel
-https://smart-tv.livedoomovie.com:4431/02_HISTORYHD_720p/chunklist.m3u8
 
 #EXTINF:-1,Independant TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -133,9 +102,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1,Masranga TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-
-#EXTINF:-1,Masti TV
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 #EXTINF:-1,Mohona TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -149,23 +115,14 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1,National Geographic BN HD
-http://live.flixhub.net/hls/ngohd.m3u8
-
-#EXTINF:-1,National Geographic
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
-
 #EXTINF:-1,News 24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
 #EXTINF:-1,Nickelodeon
 http://thoptv.in1.bitmana.io/jioo.php?c=Nickelodeon&q=600&e=.m3u8
 
-#EXTINF:-1,Peace TV Bangla
+#EXTINF:-1,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-
-#EXTINF:-1,Pogo
-http://thoptv.in1.bitmana.io/jioo.php?c=Pogo_Hindi&q=1200&e=.m3u8
 
 #EXTINF:-1,PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
@@ -176,74 +133,29 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1,Somoy TV
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1,Sonic
-http://thoptv.in1.bitmana.io/jioo.php?c=sonic_Hindi&q=800&e=.m3u8
-
 #EXTINF:-1,Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-#EXTINF:-1,Sony Entertainment
+#EXTINF:-1,Sony Entertainment HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Sony Max
-http://103.166.253.222/hls/sonymax.m3u8
 
 #EXTINF:-1,Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
-
-#EXTINF:-1,Sony Pix HD
-http://103.166.253.222/hls/sonypixhd.m3u8
-
-#EXTINF:-1,Sony Six
-http://103.166.253.222/hls/sonysix.m3u8
-
-#EXTINF:-1,Star Jalsha
-http://103.166.253.222/hls/starjalsha.m3u8
-
-#EXTINF:-1,Star Jalsha Movies HD
-http://103.166.253.222/hls/jalshamovies.m3u8
-
-#EXTINF:-1,Star Gold HD
-http://103.166.253.222/hls/stargold.m3u8
-
-#EXTINF:-1,Star Gold HD 2
-http://live.flixhub.net/hls/stargold.m3u8
-
-#EXTINF:-1,Star Movies HD
-http://103.166.253.222/hls/starmovies.m3u8
-
-#EXTINF:-1,Star Sports 1 Hindi
-https://cdn.bioscope.gq/mktv_live/channels/sports/ssp-hindi1.m3u8
-
-#EXTINF:-1,Star World HD
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,T-Sports HD
-http://live.flixhub.net/hls/t-sports.m3u8
-
-#EXTINF:-1,T-Sports HD 2
 http://103.102.27.172:6464/Channel-2/index.m3u8
 
 #EXTINF:-1,UTV HD
 http://180.178.130.180:8000/play/a04k/index.m3u8
-
-#EXTINF:-1,WB TV HD
-https://smart-tv.livedoomovie.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1,Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
 #EXTINF:-1,Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Zee Bangla HD
-http://103.166.253.222/hls/zeebanglahd.m3u8
-
-#EXTINF:-1,Zee Bangla Cinema
-http://103.166.253.222/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-1,Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
