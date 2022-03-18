@@ -223,6 +223,9 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1,Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Super Cricket
+https://prod-ec-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/Lt8ZlZpDFLk_ZgjcyxrTsXXDPvxO5ecvO32eAfYAWmOH0Dmne906JU22gbUKoi1XG03xXF95JDlSvah3K3X9-w/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1,Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 
