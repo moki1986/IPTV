@@ -226,6 +226,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 
+#EXTINF:-1,TEN Sports
+http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
