@@ -97,6 +97,9 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Colors Bangla
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
+#EXTINF:-1,Colors Bangla Cinema
+https://live.durbinlive.com/hls/colore-bangla-cinema.m3u8
+
 #EXTINF:-1,Colors Hindi
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
@@ -190,6 +193,9 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
+#EXTINF:-1,Pogo
+https://live.durbinlive.com/hls/pogo.m3u8
+
 #EXTINF:-1,PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
@@ -220,11 +226,23 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 
+#EXTINF:-1,Sony Pix
+https://live.durbinlive.com/hls/sonypixhd.m3u8
+
 #EXTINF:-1,Srishti IPTV
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/sristytv.stream/live-orgin/sristytv.stream/chunks.m3u8
 
+#EXTINF:-1,Star Jalsha HD
+https://live.durbinlive.com/hls/starjalsha.m3u8
+
+#EXTINF:-1,Star Jalsha Movies HD
+https://live.durbinlive.com/hls/jalshamovies.m3u8
+
 #EXTINF:-1,Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star Movies 2
+https://live.durbinlive.com/hls/starmovies.m3u8
 
 #EXTINF:-1,Super Cricket
 https://prod-ec-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/Lt8ZlZpDFLk_ZgjcyxrTsXXDPvxO5ecvO32eAfYAWmOH0Dmne906JU22gbUKoi1XG03xXF95JDlSvah3K3X9-w/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
@@ -255,6 +273,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
 #EXTINF:-1,Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Zee Bangla HD
+https://live.durbinlive.com/hls/zeebanglahd.m3u8
 
 #EXTINF:-1,Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
