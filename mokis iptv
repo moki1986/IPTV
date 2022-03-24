@@ -145,6 +145,9 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1,Gazi TV HD
 https://live.durbinlive.com/hls/Gazi-TV.m3u8
 
+#EXTINF:-1,Gazi TV HD 2
+http://103.149.130.122:8089/1/index.m3u8
+
 #EXTINF:-1,HBO
 http://190.171.101.36:80/HBO/tracks-v3a2/mono.m3u8
 
