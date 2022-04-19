@@ -187,6 +187,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,Nickelodeon
 http://thoptv.in1.bitmana.io/jioo.php?c=Nickelodeon&q=600&e=.m3u8
 
+#EXTINF:-1,Nickelodeon 2
+http://109.105.205.250:8081/live/NICKELODEON/playlist.m3u8
+
 #EXTINF:-1,NRB TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 
